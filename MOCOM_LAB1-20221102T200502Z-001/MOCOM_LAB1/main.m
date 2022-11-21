@@ -201,7 +201,7 @@ aRb= ComputeAngleAxis(theta, v)
 %% 4.1 
 % we have q = 0.8924 +  0.23912i +  0.36964j + 0.099046k
     %%%%%%%%%%%%
-    a = 0.8924; % real part % check notazione usata in classe
+    a = 0.8924; % real part 
     b = 0.23912; %imaginary part 
     c = 0.36964; %imaginary part 
     d = 0.099046; %imaginary part 
